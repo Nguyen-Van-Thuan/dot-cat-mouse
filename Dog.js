@@ -6,4 +6,3 @@ Dog.prototype.eat = function(){
 };
 var tom = new Cat();
 dog.eat(tom);
-consolog(Cat);
